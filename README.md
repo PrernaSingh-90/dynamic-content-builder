@@ -7,7 +7,7 @@ A professional, interactive web application built with **React.js** and **Tailwi
 ## 🔗 Project Links
 - **Live Deployment:** https://dynamic-content-builder-ivory.vercel.app/
 - **Video Demonstration:** https://drive.google.com/file/d/10NDDI8kVQF-QVpSsdAOI8Ifd4_wZIQRW/view?usp=drivesdk
-- **GitHub Repository:** 
+- **GitHub Repository:** https://github.com/PrernaSingh-90/dynamic-content-builder
 
 ---
 
