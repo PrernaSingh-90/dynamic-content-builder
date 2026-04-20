@@ -11,7 +11,7 @@ export default function Canvas({ blocks, updateBlock, deleteBlock }) {
             <ContentBlock 
               key={block.id} 
               block={block} 
-              updateBlock={updateBlock} // <--- YE LINE ZAROORI HAI
+              updateBlock={updateBlock} 
               deleteBlock={deleteBlock} 
             />
           ))}
